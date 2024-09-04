@@ -1,0 +1,2 @@
+# -Python
+Автотесты Python(pytest)
